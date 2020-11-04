@@ -17,6 +17,7 @@ body{
     font-size: xx-large;
 }
 .container{
+    width=80%;
     max-width: 80%;
     height: 70vh;
     background-color: #bbaeb9;
