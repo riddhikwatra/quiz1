@@ -17,9 +17,10 @@ body{
     font-size: xx-large;
 }
 .container{
-    width=80%;
+    width=80vw;
     max-width: 80%;
-    height: 70vh;
+    height: auto;
+    padding: 30px;
     background-color: #bbaeb9;
     border-radius: 10px;
     display: flex;
